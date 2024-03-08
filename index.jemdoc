@@ -22,8 +22,8 @@ and received the M.S. degree in Mechanical Engineering from Stanford University 
 
 
 == News
-- \[2024.02\] We have released our ROS implementation for [https://arxiv.org/abs/2309.14595 NIRRT*-PNG] on the GitHub repo [https://github.com/tedhuang96/PNGNav PNGNav].
-- \[2024.01\] Our path planning paper [https://arxiv.org/abs/2309.14595 NIRRT*-PNG] is accepted by ICRA 2024.
+- \[2024.02\] We have released our ROS implementation for [https://arxiv.org/abs/2309.14595 NIRRT*] on the GitHub repo [https://github.com/tedhuang96/PNGNav PNGNav].
+- \[2024.01\] Our path planning paper [https://arxiv.org/abs/2309.14595 NIRRT*] is accepted by ICRA 2024.
 - \[2023.01\] Two papers [https://arxiv.org/abs/2203.09063 Hierarchical Intetion Tracking] and [https://sites.google.com/view/intention-aware-crowdnav/home Intention Aware CrowdNav] are accepted by ICRA 2023.
 - \[2022.12\] I finished my internship at Amazon Robotics as an Advanced Robotics Research Co-op!
 - \[2022.12\] I am excited to attend [http://www.robot-learning.ml/2022/ the 5th Robot Learning Workshop: Trustworthy Robotics] at NeurIPS 2022 as an invited speaker!
