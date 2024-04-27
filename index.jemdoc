@@ -3,25 +3,27 @@
 
 ~~~
 {}{img_left}{pics/zhehuang.jpg}{alt text}{200}{200}
-Zhe Huang\n
-[https://publish.illinois.edu/humancenteredautonomy/ Human-Centered Autonomy Lab]\n
-[https://ece.illinois.edu/ Department of Electrical and Computer Engineering] \n
-[https://csl.illinois.edu/ Coordinated Science Laboratory]\n
+\n
+*Zhe Huang*\n\n
+[https://thehcalab.web.illinois.edu/ Human-Centered Autonomy Lab]\n
+[https://ece.illinois.edu/ Department of Electrical and Computer Engineering], [https://csl.illinois.edu/ Coordinated Science Laboratory]\n
 [https://illinois.edu/ University of Illinois at Urbana-Champaign]\n\n
+Email: zheh4@illinois.edu \n\n
 \[[https://scholar.google.com/citations?user=ME-U3iwAAAAJ&hl=en&authuser=1 Google Scholar] |
-[https://github.com/tedhuang96 GitHub] | [https://www.linkedin.com/in/zhehuang96/ LinkedIn]\]
+[https://github.com/tedhuang96 GitHub] | [https://www.linkedin.com/in/zhehuang96/ LinkedIn]\] \n\n
 ~~~
 
 == About me
-I'm a Ph.D. candidate advised by Prof. Katherine Driggs-Campbell at University of Illinois at Urbana-Champaign. 
-My research interest is in Human Robot Interaction, Artificial Intelligence, and Control.
-My research focus is currently on Pedestrian Trajectory Prediction and Collaborative Manufacturing. \n
+I'm a 5th-year Ph.D. candidate advised by Prof. Katherine Driggs-Campbell at University of Illinois at Urbana-Champaign. 
+My research interest is in Human-Robot Interaction and Artificial Intelligence.
+I do research on Learning-based Path Planning, Intention Tracking, Trajectory Prediction, Large Language Model Driven Robotics, and Integration of Prediction and Planning.
+Applications of my research include Collaborative Manufacturing, Autonomous Driving, and Social Navigation.
 
 I received the B.Eng. degree in Energy and Power Engineering from Xi'an Jiaotong University in 2017, 
 and received the M.S. degree in Mechanical Engineering from Stanford University in 2019.
 
-
 == News
+- \[2024.04\] We have released our main implementation for [https://arxiv.org/abs/2309.14595 NIRRT*] on the GitHub repo [https://github.com/tedhuang96/nirrt_star nirrt_star].
 - \[2024.02\] We have released our ROS implementation for [https://arxiv.org/abs/2309.14595 NIRRT*] on the GitHub repo [https://github.com/tedhuang96/PNGNav PNGNav].
 - \[2024.01\] Our path planning paper [https://arxiv.org/abs/2309.14595 NIRRT*] is accepted by ICRA 2024.
 - \[2023.01\] Two papers [https://arxiv.org/abs/2203.09063 Hierarchical Intetion Tracking] and [https://sites.google.com/view/intention-aware-crowdnav/home Intention Aware CrowdNav] are accepted by ICRA 2023.
@@ -42,7 +44,96 @@ and received the M.S. degree in Mechanical Engineering from Stanford University 
 - \[2020.05\] One paper is accepted by ITSC 2020.
 - \[2020.01\] One paper is accepted by RA-L and ICRA 2020.
 
+== Publications
+~~~
+{}{img_left}{pics/nirrt*.png}{alt text}{200}{200}
+[https://sites.google.com/view/nirrt-star *Neural Informed RRT\*: Learning-based Path Planning with Point Cloud State Representations under Admissible Ellipsoidal Constraints*]\n\n
+*Zhe Huang*, Hongyu Chen, John Pohovey, and Katherine Driggs-Campbell \n\n
+ICRA 2024 \n\n
+\[[https://arxiv.org/abs/2309.14595 arXiv]\]
+\[[https://sites.google.com/view/nirrt-star project]\]
+\[[https://github.com/tedhuang96/nirrt_star main code]\]
+\[[https://github.com/tedhuang96/PNGNav ROS code]\]
+\[[https://youtu.be/xys6XxMqFqQ presentation]\]
+\[[https://youtu.be/XjZqUJ0ufGA demo]\]
+~~~
 
-== Contact
-- Email: zheh4@illinois.edu
-- Address: 1308 W Main St, Urbana, IL 61801
+~~~
+{}{img_left}{pics/hit.png}{alt text}{200}{151}
+[https://sites.google.com/view/hierarchicalintentiontracking *Hierarchical Intention Tracking for Robust Human-Robot Collaboration in Industrial Assembly Tasks*] \n\n
+*Zhe Huang*\*, Ye-Ji Mun\*, Xiang Li†, Yiqing Xie†, Ninghan Zhong†, Weihang Liang, Junyi Geng, Tan Chen, and Katherine Driggs-Campbell \n\n
+ICRA 2023 \n\n
+\[[https://ieeexplore.ieee.org/abstract/document/10160515 paper]\]
+\[[https://arxiv.org/abs/2203.09063 arXiv]\]
+\[[https://sites.google.com/view/hierarchicalintentiontracking project]\]
+\[[https://youtu.be/lcSl-Jz3_mE presentation]\]
+~~~
+
+~~~
+{}{img_left}{pics/crowdnav++.gif}{alt text}{200}{200}
+[https://sites.google.com/view/intention-aware-crowdnav/ *Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph*] \n\n
+Shuijing Liu, Peixin Chang, *Zhe Huang*, Neeloy Chakraborty, Kaiwen Hong, Weihang Liang, D. Livingston McPherson, Junyi Geng, and Katherine Driggs-Campbell \n\n
+ICRA 2023 \n\n
+\[[https://ieeexplore.ieee.org/abstract/document/10160660 paper]\]
+\[[https://arxiv.org/abs/2203.01821 arXiv]\]
+\[[https://sites.google.com/view/intention-aware-crowdnav/ project]\]
+\[[https://github.com/Shuijing725/CrowdNav_Prediction_AttnGraph code]\]
+\[[https://youtu.be/boDDQvZ1yV0 presentation]\]
+\[[https://youtu.be/d9va6QW9sYA demo]\]
+~~~
+
+~~~
+{}{img_left}{pics/gst.png}{alt text}{200}{225}
+[https://ieeexplore.ieee.org/abstract/document/9664278 *Learning Sparse Interaction Graphs of Partially Detected Pedestrians for Trajectory Prediction*] \n\n
+*Zhe Huang*, Ruohua Li, Kazuki Shin, Katherine Driggs-Campbell \n\n
+RA-L with ICRA 2022 presentation option \n\n
+\[[https://ieeexplore.ieee.org/abstract/document/9664278 paper]\]
+\[[https://arxiv.org/abs/2107.07056 arXiv]\]
+\[[https://sites.google.com/view/gumbel-social-transformer project]\]
+\[[https://github.com/tedhuang96/gst code]\]
+\[[https://youtu.be/fHYg1zaMcxE presentation]\]
+\[[https://youtu.be/oL2UlN53wUc demo]\]
+~~~
+
+~~~
+{}{img_left}{pics/mifwlstm.gif}{alt text}{200}{117}
+[https://ieeexplore.ieee.org/abstract/document/9309334 *Long-Term Pedestrian Trajectory Prediction Using Mutable Intention Filter and Warp LSTM*] \n\n
+*Zhe Huang*, Aamir Hasan, Kazuki Shin, Ruohua Li, Katherine Driggs-Campbell \n\n
+RA-L 2020 \n\n
+\[[https://ieeexplore.ieee.org/abstract/document/9309334 paper]\]
+\[[https://arxiv.org/abs/2007.00113 arXiv]\]
+\[[https://github.com/tedhuang96/mifwlstm code]\]
+~~~
+
+~~~
+{}{img_left}{pics/online_monitoring.png}{alt text}{200}{153}
+[https://ieeexplore.ieee.org/abstract/document/9294366 *Online Monitoring for Safe Pedestrian-Vehicle Interactions*] \n\n
+Peter Du, *Zhe Huang*†, Tianqi Liu†, Tianchen Ji†, Ke Xu†, Qichao Gao†,Hussein Sibai, Katherine Driggs-Campbell, and Sayan Mitra\n\n
+ITSC 2020 \n\n
+\[[https://ieeexplore.ieee.org/abstract/document/9294366 paper]\]
+\[[https://arxiv.org/abs/1910.05599 arXiv]\]
+~~~
+
+~~~
+{}{img_left}{pics/softrobot_antenna.png}{alt text}{200}{208}
+[https://ieeexplore.ieee.org/abstract/document/8972415 *3D Electromagnetic Reconfiguration Enabled by Soft Continuum Robots*] \n\n
+Lucia T. Gan, Laura H. Blumenschein, *Zhe Huang*, Allison M. Okamura, Elliot W. Hawkes, and Jonathan A. Fan\n\n
+RA-L 2020 \n\n
+\[[https://ieeexplore.ieee.org/abstract/document/8972415 paper]\]
+~~~
+
+~~~
+{}{img_left}{pics/drillbot.png}{alt text}{200}{152}
+[https://onepetro.org/SPEDC/proceedings-abstract/20DC/2-20DC/447222 *A Voice Interface for Drilling Systems*] \n\n
+Crispin Chatar, *Zhe Huang*, Peter Hadrovic\n\n
+IADC/SPE International Drilling Conference and Exhibition 2020 \n\n
+\[[https://onepetro.org/SPEDC/proceedings-abstract/20DC/2-20DC/447222 paper]\]
+~~~
+
+~~~
+{}{img_left}{pics/fly-by-feel.png}{alt text}{200}{153}
+[https://www.dpi-proceedings.com/index.php/shm2019/article/view/32298 *High Accuracy Flight State Identification of a Self-Sensing Wing via Machine Learning Approaches*] \n\n
+*Zhe Huang*, Hongyi Zhao, Cheng Liu, Xi Chen, Fotis Kopsaftopoulos, Fu-Kuo Chang\n\n
+Structural Health Monitoring 2019 \n\n
+\[[https://www.dpi-proceedings.com/index.php/shm2019/article/view/32298 paper]\]
+~~~
