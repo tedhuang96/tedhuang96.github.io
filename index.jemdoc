@@ -33,10 +33,12 @@ My research areas are Robotics, Artificial Intelligence, and Human-Robot Interac
 My Ph.D. thesis: *Bridging Prediction and Planning for Human-Centered Autonomy*.
 
 == News
+- \[2025.05\] Our work [https://www.researchgate.net/profile/Mahshid-Mansouri/publication/384222516_Implementation_and_Validation_of_Obstacle_Avoidance_Algorithms_on_a_Self-Balancing_Ballbot/links/674b9c723d17281c7deeba80/Implementation-and-Validation-of-Obstacle-Avoidance-Algorithms-on-a-Self-Balancing-Ballbot.pdf Implementation and Validation of Obstacle Avoidance Algorithms on a Self-Balancing Robot] is accepted by CASE 2025.
+- \[2025.01\] Our work [https://arxiv.org/abs/2409.09921 Towards Real-Time Generation of Delay-Compensated Video Feeds for Outdoor Mobile Robot Teleoperation] is accepted by ICRA 2025.
 - \[2024.10\] I passed my Ph.D. thesis defense.
-- \[2024.08\] Our interaction-aware conformal prediction paper [https://www.algorithmic-robotics.org/papers/60_Interaction_aware_Conformal.pdf ICP] is accepted by WAFR 2024.
+- \[2024.08\] Our work Interaction-aware Conformal Prediction ([https://www.algorithmic-robotics.org/papers/60_Interaction_aware_Conformal.pdf ICP]) is accepted by WAFR 2024.
 - \[2024.07\] I am excited to join Meta as a research scientist.
-- \[2024.06\] Our paper on [https://arxiv.org/abs/2407.16771 Topology-Guided ORCA] is accepted by [https://unsolvedsocialnav.org/ Unsolved Problems in Social Robot Navigation workshop] in conjunction with RSS 2024.
+- \[2024.06\] Our work [https://arxiv.org/abs/2407.16771 Topology-Guided ORCA] is accepted by [https://unsolvedsocialnav.org/ Unsolved Problems in Social Robot Navigation workshop] in conjunction with RSS 2024.
 - \[2024.06\] Our Embodied AI paper [https://arxiv.org/abs/2406.13787 LIT] is selected for *Spotlight Presentation* by [https://computer-vision-in-the-wild.github.io/cvpr-2024/ the 3rd Workshop on Computer Vision in the Wild] at CVPR 2024.
 - \[2024.05\] Our Embodied AI paper [https://arxiv.org/abs/2406.13787 LIT] is accepted by both [https://computer-vision-in-the-wild.github.io/cvpr-2024/ the 3rd Workshop on Computer Vision in the Wild] and [https://embodied-ai.org/ the 5th Annual Embodied AI Workshop] at CVPR 2024.
 - \[2024.04\] We have released our main implementation for [https://arxiv.org/abs/2309.14595 NIRRT*] on the GitHub repo [https://github.com/tedhuang96/nirrt_star nirrt_star].
@@ -50,13 +52,12 @@ My Ph.D. thesis: *Bridging Prediction and Planning for Human-Centered Autonomy*.
 - \[2022.08\] We will present our work [https://arxiv.org/abs/2206.01775 Seamless Interaction Design with Coexistence and Cooperation Modes for Robust Human-Robot Collaboration] on CASE 2022 Special Session on Adaptive and Resilient Cyber-Physical Manufacturing Networks.
 - \[2022.05\] I am excited to join Nuro as a PhD Intern.
 - \[2022.05\] Our work [https://arxiv.org/abs/2205.14340 Insights from an Industrial Collaborative Assembly Project: Lessons in Research and Collaboration] is selected for *Spotlight Presentation* at [https://sites.google.com/view/icra22ws-cor-wotf/accepted-papers?authuser=0 ICRA 2022 Workshop on Collaborative Robots and the Work of the Future].
-- \[2022.04\] I am honored to give a talk at Wuhan University titled "Human Behavior Modeling in Autonomous Driving and Collaborative Manufacturing" (自动驾驶与协同制造中的人类行为建模).
 - \[2022.02\] Our demo "Human-Robot Collaboration in Industrial Assembly Tasks" is awarded the Best Robotics Demo in [https://studentconference.csl.illinois.edu/ Coordinated Science Laboratory Student Conference].
 - \[2022.01\] We will present [https://sites.google.com/view/gumbel-social-transformer GST] on ICRA 2022.
 - \[2021.12\] We have released our code for [https://sites.google.com/view/gumbel-social-transformer GST] on the GitHub repo [https://github.com/tedhuang96/gst gst].
-- \[2021.12\] One paper [https://sites.google.com/view/gumbel-social-transformer GST] is accepted by RA-L.
+- \[2021.12\] Our work [https://sites.google.com/view/gumbel-social-transformer GST] is accepted by RA-L.
 - \[2021.06\] We have released our code and pretrained models for [https://sites.google.com/view/mif-wlstm MIF-WLSTM] on the GitHub repo [https://github.com/tedhuang96/mifwlstm mifwlstm].
-- \[2020.11\] One paper [https://sites.google.com/view/mif-wlstm MIF-WLSTM] is accepted by RA-L.
+- \[2020.11\] Our work [https://sites.google.com/view/mif-wlstm MIF-WLSTM] is accepted by RA-L.
 - \[2020.05\] One paper is accepted by ITSC 2020.
 - \[2020.01\] One paper is accepted by RA-L and ICRA 2020.
 
@@ -67,6 +68,8 @@ My Ph.D. thesis: *Bridging Prediction and Planning for Human-Centered Autonomy*.
 *Zhe Huang*, Tianchen Ji, Heling Zhang, Fatemeh Cheraghi Pouria, Katherine Driggs-Campbell, Roy Dong \n\n
 WAFR 2024 \n\n
 \[[https://www.algorithmic-robotics.org/papers/60_Interaction_aware_Conformal.pdf paper]\]
+\[[https://arxiv.org/abs/2502.06221 arXiv]\]
+\[[https://github.com/tedhuang96/icp code]\]
 ~~~
 
 ~~~
